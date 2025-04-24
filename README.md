@@ -13,7 +13,14 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
+<!--
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
+-->
 
+## Finish
+
+_Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
 
